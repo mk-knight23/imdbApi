@@ -1,7 +1,7 @@
 # imdbApi
-A movie search website using the omdbApi for IMDb
+# A movie search website
 
-Your site is ready to be published at https://mk-knight23.github.io/imdbApi
+# DEMO :  https://mk-knight23.github.io/imdbApi
 
-Your site is ready to be published at https://laughing-kowalevski-3c0676.netlify.app
+# DEMO :  https://laughing-kowalevski-3c0676.netlify.app
 
