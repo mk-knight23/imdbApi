@@ -5,3 +5,4 @@
 
 # DEMO :  https://laughing-kowalevski-3c0676.netlify.app
 
+![screenshot](imdb-ss.png)
